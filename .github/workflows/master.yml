@@ -21,4 +21,4 @@ jobs:
         server: ftp.tandmbrothers.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /public_html/production.watch-learn.com/
+        server-dir: /themanav/
